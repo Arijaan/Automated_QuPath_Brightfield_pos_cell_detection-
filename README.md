@@ -1,12 +1,12 @@
-# INFO:
+# Info:
 
-This repo contains scripts for automating the process of cell detection and classification for miRNAscope and RNAscope assays. The positive cell detection can also be used for IHC assays.
+This repo contains scripts for automating the process of cell detection and classification for miRNAscope and RNAscope assays. The positive cell detection can also be used for IHC assays. 
 
 
 Flowchart:
 https://unibremende-my.sharepoint.com/:u:/g/personal/arian2_uni-bremen_de/EQiOiY7sl6pBuDFZZ62uWhcB2Img44maO3RIhlykpXyUzQ?e=wMveRc
 
-# DEPENDANCIES:
+# Dependencies:
 
 ## R-Libraries:
 
@@ -27,7 +27,7 @@ pip install pandas
 
 
 
-# ABBREVIATIONS/NAMING SYSTEM:
+# Abbreviations/Naming System:
 
 PA: Project automation
 
@@ -39,7 +39,7 @@ Col: Color convolution included
 
 AI: Completely Written with generative AI and not tested
 
-# FUTURE UPDATES:
+# Future updates:
 
 ⦁	Automatic selection of cell detection parameters for each image
 
