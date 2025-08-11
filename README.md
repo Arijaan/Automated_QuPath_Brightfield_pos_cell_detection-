@@ -12,7 +12,7 @@ https://unibremende-my.sharepoint.com/:u:/g/personal/arian2_uni-bremen_de/EQiOiY
 
 ggplot2, tibble, dplyr, readxl
 
-```
+```R
 packages.install("library_name")
 ```
 
