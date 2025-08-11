@@ -31,6 +31,8 @@ pip install pandas
 
 PA: Project automation
 
+F: Final
+
 T: in testing phase
 
 Col: Color convolution included
