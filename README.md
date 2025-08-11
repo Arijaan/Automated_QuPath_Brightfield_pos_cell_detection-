@@ -37,6 +37,8 @@ T: in testing phase
 
 Col: Color convolution included
 
+AI: Completely Written with generative AI and not tested
+
 # FUTURE UPDATES:
 
 ⦁	Automatic selection of cell detection parameters for each image
